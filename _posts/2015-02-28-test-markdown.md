@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test markdown 2
+title: Test markdown 3
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
